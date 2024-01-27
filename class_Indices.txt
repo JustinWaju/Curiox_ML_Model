@@ -1,0 +1,12 @@
+0   back-to-forth-swing
+1   down-to-up-swing
+2   forth-to-back-swing
+3   lean-back
+4   lean-down
+5   lean-forth
+6   lean-left
+7   lean-right
+8   lean-up
+9   left-to-right-swing
+10  right-to-left-swing
+11  up-to-down-swing
